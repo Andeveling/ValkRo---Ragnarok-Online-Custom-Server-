@@ -1,0 +1,5 @@
+ve_fild07,125,128,0	script	Boat#Aru	111,{
+			warp "nameless_n",257,217;
+			end;
+		
+	}
